@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the blog!
-tags: [Meta, Misc]
+tags: [meta, misc]
 author: Yoav
 comments_id: 1
 ---
