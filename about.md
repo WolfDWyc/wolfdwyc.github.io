@@ -3,4 +3,8 @@ layout: page
 title: About
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+# Hi 👋, I'm Yoav
+
+I like to write software, and I like to write about things that I like. Most of my projects involve whatever currently interests me.
+
+[Email](mailto:yoavwolfdw@gmail.com) / [GitHub](https://github.com/WolfDWyc)

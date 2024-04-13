@@ -1,9 +1,9 @@
 # Site settings
-title: "TextLog"
-description: "Minimalist Jekyll theme for documentation site"
-baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+title: "WolfDWyc"
+description: "My personal blog for anything I want."
+baseurl:
 url: ""
-author: "John Doe"
+author: ""
 
 # Build settings
 kramdown:
@@ -13,7 +13,8 @@ permalink: pretty
 # Third-party services
 # just leave empty to disable it
 google_analytics:
-disqus_shortname: 
+disqus_shortname: "test"
+issues_repo: "WolfDWyc/WolfDWyc.github.io"
 
 plugins:
   - jekyll-sitemap
